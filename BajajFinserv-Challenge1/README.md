@@ -15,8 +15,8 @@ This is the frontend application for the Bajaj Finserv Health Challenge. The app
 - **Dynamic Rendering**: Displays filtered results based on user selection.
 - **Title**: The browser tab title is set to your roll number.
 
-
 ## Deployment
+
 The site is deployed on Render.
 
 ## API Endpoint
@@ -33,4 +33,5 @@ The frontend interacts with the following API endpoint:
 3. View the filtered results displayed on the page.
 
 ## URL
-[https://bajajfinserv-challenge1.onrender.com](https://bajajfinserv-challenge1.onrender.com)
+
+[https://vinayborate.vercel.app](https://vinayborate.vercel.app)
