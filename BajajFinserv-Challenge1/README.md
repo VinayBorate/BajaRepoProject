@@ -5,7 +5,7 @@
 This is the frontend application for the Bajaj Finserv Health Challenge. The app is built with React and uses Ant Design for UI components. It communicates with the backend API to process JSON input and display results.
 
 <p align="center">
-  <img src="https://github.com/rishn/BajajFinserv-Challenge1/blob/master/screenshots/dashboard.png?raw=true" alt="BFC1" />
+  <img src="https://github.com/user-attachments/assets/e70b4ebb-793f-4f95-943d-f9bbadb0a77d" />
 </p>
 
 ## Features
@@ -28,6 +28,7 @@ The frontend interacts with the following API endpoint:
 ## Usage
 
 1. Enter JSON data into the text input field and click "Submit."
+
 2. Select the desired filters from the dropdown menu.
 3. View the filtered results displayed on the page.
 
